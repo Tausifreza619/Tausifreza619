@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tausifreza619
+- 👋 Hi, I’m Tausif reza
 - 👀 I’m interested in Software making
 - 🌱 I’m currently learning java
 - 📫 Reach me on rezatausif619@gmail.com
