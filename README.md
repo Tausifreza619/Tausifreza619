@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tausifreza619
 - 👀 I’m interested in Software making
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning java
 - 📫 Reach me on rezatausif619@gmail.com
 
 
